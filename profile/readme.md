@@ -1,6 +1,6 @@
 # 🦊 CWX-Development 🌲
 
-![CWX-Development Forest Banner](path-to-forest-image)
+![CWX-Development Forest Banner](https://github.com/CWX-Development/cwx-main/blob/main/med/foxes/fox_front_32px.png?raw=true)
 
 ---
 
