@@ -40,7 +40,7 @@ In the forest of CWX-Development, each fox represents a project, a new idea, or 
 
 1. **Curiosity** – Always exploring new ideas.
 2. **Sustainability** – Building long-lasting projects.
-3. **Collaboration** – Growing together, one branch at a time.
+3. **Usefulness** – Projects that can be used.
 
 ---
 
